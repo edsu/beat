@@ -1,0 +1,9 @@
+This is a silly experiment to see what sorts of relationships
+between MARC records and other web resources it might be possible
+to infer from the 856 fields (subfields u and 3) in the Library
+of Congress' MARC data up at the Internet Archive [1]. The 856 fields
+are put into MARC record as part of LC's Bibliographic Enrichment
+Advisory Team [2].
+
+http://www.archive.org/details/marc_records_scriblio_net
+http://www.loc.gov/catdir/beat/

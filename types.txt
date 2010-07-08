@@ -1,0 +1,484 @@
+# generated with:
+# cut -f 2 -d "ctrl-v<tab>" marclinks.txt | sort | uniq -c
+
+  98043 Publisher description
+  77111 Table of contents
+  35587 Contributor biographical information
+  10469 Sample text
+   8833 Table of Contents
+   6252 Book review (H-Net)
+    717 PDF version:
+    669 Text version:
+    407 PDF
+    397 Page view
+    191 Book review (Education Review)
+    162 Summary page with link to full-text PDF report
+     94 Abstract with link to full-text PDF report
+     90 Abstract page with link to full-text PDF report
+     77 Publisher's description
+     64 Volume 2
+     63 Volume 1
+     59 Research Working Papers publication listings page
+     59 Abstract and full text;
+     58 Discussion papers for 2004
+     47 Index
+     42 (PDF)
+     41 Reading group guide
+     37 (Text)
+     35 Kraus Sir Francis Drake Collection copy
+     35 Immigrant arrivals: a guide to published sources
+     33 National American Woman Suffrage Association Collection copy
+     31 Sources cited
+     28 IMF policy discussion papers by date
+     24 Discussion papers in economics by date
+     19 Copy 2
+     18 scan from b&w copy photo in Publishing Office
+     17 Working paper series by year
+     16 HTML version
+     16 Copy 1
+     14 Book review (E-STREAMS)
+     13 Jefferson: selected references
+     13 digital file from original broadside
+     13 Citation linked to PDF version:
+     12 Full text;
+     12 Available online at:
+     11 TOC
+     11 RTF version
+     11 Full text: English
+     10 Volume 3
+     10 Business History Bibliography
+      9 PDF version
+      9 original
+      9 Finding aid
+      9 access page
+      8 Full text
+      7 Vol. 1
+      6 Pt. 1, PDF version:
+      6 Part 2
+      6 Part 1
+      6 Copy 3
+      5 Vol. 1:
+      5 Pt. 1, text version:
+      5 b&w film copy neg.
+      4 Volume 4
+      4 Vol. 2:
+      4 Vol. 2
+      4 Pt. 2:
+      4 Pt. 1:
+      4 HTML
+      4 Holmes copy
+      4 Executive summary
+      4 Copy 4
+      4 African-Americans in business
+      3 Updated list of organizations and programs
+      3 Summary (HTML) and complete full text (PDF).
+      3 Summary and complete full text (PDF)
+      3 Summary
+      3 scan from color copy photo in Publishing Office
+      3 Pt. 4:
+      3 Pt. 3:
+      3 Original manuscript
+      3 Online version:
+      3 Full text available in pdf format
+      3 Full text ;
+      3 digital file from original item, recto
+      3 Copy 5
+      3 Bibliographic record display
+      2 Volumes 1-2
+      2 Volume 5
+      2 Vol. 4:
+      2 Vol. 4
+      2 Vol. 3:
+      2 Vol. 3
+      2 Title page and table of contents
+      2 Text version
+      2 Table of contents, v. 1
+      2 Summary (HTML) and complete full text (PDF)
+      2 Summary and report full text
+      2 Scroll to desired title for Word documents.
+      2 Scan of original scrapbook
+      2 Publisher Web site
+      2 Pt. 5:
+      2 pt. 2
+      2 pt. 1
+      2 PDf version:
+      2 Part 3
+      2 Page turner
+      2 Outline view
+      2 Online version
+      2 Online study tools
+      2 Online multimedia learning tools
+      2 Online access
+      2 OCLC Digital Archive
+      2 Management plan and related documents:
+      2 List of internet sites
+      2 In National Academy Press
+      2 http://www.ilibri.casalini.it/fu
+      2 HTML version:
+      2 Full text licensed only for UF students, faculty, staff.
+      2 Full text:
+      2 Executive summary page with link to full-text .pdf report
+      2 Executive summary:
+      2 Errata:
+      2 Electronic version
+      2 Digital version of original print publication
+      2 digital file from original item, verso
+      2 digital file from original item
+      2 Access page
+      2 Abstract
+      2 2nd paper
+      2 1st paper
+      1 Working papers by date
+      1 Weekly information bulletin - House of Commons
+      1 Web page for further announcements.
+      1 Webpage
+      1 Volumes 1-4
+      1 Volume 6
+      1 Volume 1 (Part 2)
+      1 Volume 1 (Part 1)
+      1 Volume 15
+      1 Vol. 8
+      1 Vol. 7
+      1 Vol. 6
+      1 Vol. 5 (netLibrary)
+      1 Vol. 5
+      1 Vol. 4 (netLibrary)
+      1 Vol. 4: http://purl.access.gpo.gov/GPO/LPS34021
+      1 Vol. 3, text version:
+      1 Vol. 3, PDF version:
+      1 Vol. 3: http://purl.access.gpo.gov/GPO/LPS34022
+      1 Vol. 3: Appendices C&D
+      1 Vol. 2, PDF
+      1 Vol. 2, Page view
+      1 Vol. 2 (netLibrary)
+      1 Vol. 2: Appendices A & B
+      1 [Vol. 2], Analyst's handbook
+      1 Vol. 1, text version:
+      1 Vol. 1: Report
+      1 Vol. 1, PDF
+      1 Vol. 1, Page view
+      1 Vol. 1 (netLibrary)
+      1 [Vol. 1] (netLibrary)
+      1 [Vol. 1]
+      1 Ventana Online
+      1 Uzbekistan
+      1 Urban/rural influence zone:
+      1 United Nations Treaty Collection on the Internet
+      1 United Arab Emirates
+      1 Turkmenistan
+      1 Transcript of hearing (WORD).
+      1 The Sir Francis Drake Collection
+      1 Text versopm:
+      1 Text version: http://frwebgate.access.gpo.gov/cgi-bin/useftp.cgi?IPaddress=162.140.64.128&filename=96631.wais&directory=/disk5/wais/data/108%5Fsenate%5Fhearings
+      1 Text version::
+      1 Text version :
+      1 Textual volumes and portfolio images
+      1 Text-only version
+      1 Text
+      1 Teacher's guide
+      1 Talbot article
+      1 Tajikistan
+      1 Table of contents with search interface to access words and phrases in the text
+      1 Table of contents, v. 2
+      1 Table of Contents for Chapter 10
+      1 Table of contents and publisher chapter descriptions
+      1 Table of contents and links to PDF files
+      1 Table of contents and downloadable full text
+      1 Table of contents:
+      1 Supporting data
+      1 Supplemental notes to the encyclopedia
+      1 Summary page with link to full-text report
+      1 Summary page with link to full text report
+      1 Summary page with link to full text PDF report
+      1 Summary page with links to full-text report
+      1 Summary (HTML) and full text (PDF)
+      1 Summary available online :
+      1 Spanish version
+      1 Spanish-English online version
+      1 Sources cited in Chapter 10
+      1 Sources Cited
+      1 Sir Francis Drake: A Pictorial Biography by Hans P. Kraus. The Catalogue of the Collection
+      1 Seychelles
+      1 Sessional information digest
+      1 Selected images
+      1 Section 3:
+      1 Section 2:
+      1 Section 1:
+      1 Searchable database (gopher) of v. 1
+      1 Searchable database (freeWAIS) of v. 1
+      1 Scroll to title desired for Word documents.
+      1 RTF format
+      1 Rosenwald no. 1811a
+      1 Rosenwald no. 1811
+      1 Rosenwald no. 1803 (colored copy)
+      1 Rosenwald no. 1803a
+      1 Rosenwald no. 1798B
+      1 Rosenwald no. 1798A
+      1 Rosenwald no. 1798
+      1 RevealNet Web site
+      1 Report summary:
+      1 Report 6
+      1 Report 5
+      1 Report 2
+      1 Report
+      1 Replacement pages:
+      1 Related material available electronically
+      1 Related information
+      1 related image: digital file from b&w film copy neg. of original photo in P&P
+      1 Related electronic resources
+      1 References and Appendices
+      1 Qatar
+      1 Publisher URL
+      1 Publisher's web site.
+      1 Publishers description
+      1 Publisher description, v. 2
+      1 Publisher catalog
+      1 Pt., text version:
+      1 Pt., PDF version:
+      1 [Pt. B]
+      1 [Pt. A]
+      1 Pt. 7:
+      1 Pt. 6:
+      1 Pt. 3, text version:
+      1 Pt. 3, PDF version:
+      1 [Pt. 3]:
+      1 Pt. 2, PDF version:
+      1 Pt. 2, Genre and physical characteristic terms
+      1 [Pt. 2]:
+      1 Pt. 1, Subject terms
+      1 [Pt. 1]:
+      1 pt.1:
+      1 Printed Hearings-Committee on Resources-106th Congress (1999-2000):
+      1 Preface
+      1 Post-publication "corrections and additions" provided by translator (link active as of May 5, 2004)
+      1 Plates only (copy 3)
+      1 PDF versopm:
+      1 PDF version: http://frwebgate.access.gpo.gov/cgi-bin/useftp.cgi?IPaddress=162.140.64.128&filename=96631.wais&directory=/disk5/wais/data/108%5Fsenate%5Fhearings
+      1 PDF version::
+      1 PDF version :
+      1 PDF (Rosenwald 1801A)
+      1 PDF (Rosenwald 1801)
+      1 pdf of plate
+      1 PDF of original print edition
+      1 PDF of original manuscript
+      1 pdf of map plate
+      1 PDF of heft 1
+      1 pdf of document
+      1 pdf of doc
+      1 PDF for vols. 1-2
+      1 PDF for vol. 1
+      1 PDF (Copy 2)
+      1 PDF, Bd. B (Boieldieu--Bz.)
+      1 Part II.
+      1 Part I.
+      1 Part B
+      1 Part A
+      1 Part 4
+      1 Page views of the original manuscript
+      1 Page view (Rosenwald 1801A)
+      1 Page view (Rosenwald 1801)
+      1 Page view of original print edition
+      1 Page view of heft 1
+      1 Page view for vols. 1-2
+      1 Page view for vol. 1
+      1 Page view (Copy 2)
+      1 Page view, Bd. B (Boieldieu--Bz.)
+      1 Pages i-v, 1-4 online
+      1 Pages 73-110 online
+      1 Pages 7-24 online
+      1 Pages 57-65 online
+      1 Pages 45-72 online
+      1 Pages 35-56 online
+      1 Pages 32-64 online
+      1 Pages 28-49 online
+      1 Pages 25-44 online
+      1 Pages 1-9 online
+      1 Pages 16-27 online
+      1 Pages 1-5 online
+      1 Pages 1-31 online
+      1 Pages 1-15 online
+      1 Pages 11-34 online
+      1 Pages 111-114 online
+      1 Page
+      1 Online version of vols. 1-4
+      1 Online version of transcribed text
+      1 Online version of text, with sound recordings
+      1 online version
+      1 Online index
+      1 Online finding aid, and access to online version available to subscribers
+      1 Oman
+      1 Official James Dean website
+      1 Objectives for recreation settings:
+      1 Non-refereed papers
+      1 Newsletter
+      1 Network buyer's guide
+      1 Nepal
+      1 MP3 files of musical examples
+      1 Moldova
+      1 Meyer article
+      1 Mauritius
+      1 Maps only
+      1 Map from pocket
+      1 Map 4
+      1 Map 3
+      1 Map 2
+      1 Map 1
+      1 Manual for use with the author's web site of the same title
+      1 Management areas:
+      1 Maldives
+      1 Main rept.:
+      1 Main report:
+      1 Mail report
+      1 Madagascar
+      1 Lithuania
+      1 Letters transmitting the Report to Congress:
+      1 Leaves 553 verso-560 recto
+      1 LC copy under call number PR4144.F6 1793a
+      1 LC copy under call number PR4144.F6 1793
+      1 Latvia
+      1 Land patent search page
+      1 Kyrgyzstan
+      1 Kuwait
+      1 Kazakstan
+      1 Jefferson: selected sources
+      1 Jefferson's copy
+      1 Jan. 31, 2003 release
+      1 Introd. and chapt. 1-4
+      1 Interim handbook containing ch. 1, 2, 5, 6, 9, 10, 12, 13
+      1 Infrastructure Planning Council page with links to full text report
+      1 Index to ships' names
+      1 Images from textual volumes and portfolios only http://memory.loc.gov/ammem/award98/ienhtml/curthome.html
+      1 HTML version of French translation
+      1 HTML format
+      1 Housing documents
+      1 Houdini's copy
+      1 Hearing transcript (HTML)
+      1 Hansard (House of Lords Debates)
+      1 Hansard (House of Commons Debates)
+      1 Haiti
+      1 Guyana
+      1 Government surplus and auctions page
+      1 Goudy copy
+      1 G&M copy 1, maps only
+      1 Georgia
+      1 General index J-Z
+      1 General index A-I
+      1 GEM documents preliminary page with links to full text under "National Research Council GEM program document review report"
+      1 Full text [vol. 2] in pdf
+      1 Full text [vol. 1] in pdf
+      1 Full text (PDF)
+      1 Full-text online
+      1 Full text of papers
+      1 Full text in PDF format:
+      1 Full text (HTML)
+      1 Full report
+      1 [Front pages]:
+      1 Free online updates via the Internet
+      1 For UN Legal Technical Assistance Information
+      1 Fleet index
+      1 Fire management analysis zone:
+      1 Finding aid and online version
+      1 Final leaf only
+      1 Fact sheet with images of book
+      1 Expedition slides at Ark: Image Archive
+      1 Executive summary page
+      1 Executive summary online
+      1 Executive summary and key findings
+      1 Executive Summary
+      1 Executive summaries
+      1 Exec. summary of vol. 2 (netLibrary)
+      1 Exec. summary of vol. 2
+      1 Excerpts:
+      1 Estonia
+      1 English version.
+      1 English version
+      1 English-Spanish online version
+      1 El Camino Real de Tierra Adentro National Historic Trail Web site
+      1 E-book for vol. 4
+      1 E-book for vol. 3, pt. D
+      1 E-book for Vol. 1, Trees
+      1 Dominican Republic
+      1 Document text
+      1 Document preliminaries (WORD).
+      1 Document no. 177 and no. 185
+      1 Document no. 125
+      1 Digital version of the original edition (Washington : G.P.O., 1880-1901)
+      1 Digital repository version
+      1 Digital Preservation reports page
+      1 digital files from original portfolio
+      1 digital file from b&w film neg. of plate 8
+      1 digital file from b&w film neg. of plate 7
+      1 digital file from b&w film neg. of plate 6
+      1 digital file from b&w film neg. of plate 5
+      1 digital file from b&w film neg. of plate 4
+      1 digital file from b&w film neg. of plate 3
+      1 digital file from b&w film neg. of plate 2
+      1 digital file from b&w film copy neg. of plate 1
+      1 Digest:
+      1 David K. Moore article on "The Brick of Shalmaneser" from the Library of Congress information bulletin
+      1 Cover letter.
+      1 Copy 7
+      1 Copy 68
+      1 Copy 40
+      1 Copy 1, map no. [14], Guangdong Sheng
+      1 copy 1
+      1 Contributors and consultants
+      1 Content of reels 13-14 (Puerto Rican politics)
+      1 Connect to text.
+      1 Connect to related publisher website
+      1 Companion Web site
+      1 Companion web site
+      1 Companion Heritage Foundation CDA reports
+      1 Comoros
+      1 Communication Directorate's Parliamentary page
+      1 color film copy transparency of p. 8
+      1 color film copy transparency of cover
+      1 Click on "Downloadable version" for Word file.
+      1 Checklists
+      1 Chapt. 5
+      1 Ch. 9
+      1 Ch. 7 (Synthesis, modeling, and evaluation) and Ch. 8 (Conclusions and recommendations)
+      1 Ch. 6
+      1 Ch. 4 (Organizational structure), Ch. 5 (Community involvement and traditional knowledge), and Ch. 6 (Data and information management)
+      1 Ch. 3 (Determining scope and geographic focus)
+      1 Ch. 3
+      1 Ch. 1 (Planning long-term ecosystem science) and Ch. 2 (The importance of a conceptual foundation)
+      1 Ch. 18
+      1 Ch. 15
+      1 Ch. 14
+      1 Ch. 13
+      1 Ch. 12
+      1 Ch. 11
+      1 Camping objectives:
+      1 Book support
+      1 Book excerpt
+      1 Blue Pixel Digital Experts
+      1 Blake illustrations
+      1 Blake engraving (1 page)
+      1 BIC search page
+      1 Bhutan
+      1 Belize
+      1 Belarus
+      1 Bahrain
+      1 [Back pages]:
+      1 Azerbiajan
+      1 Available from the University of Michigan
+      1 Author online
+      1 Australia. High Court. Bulletin
+      1 Atlas, plate 40, View of Macau
+      1 Atlas 1
+      1 Armenia
+      1 Appendix
+      1 Appendices:
+      1 Appendices
+      1 Apache Jakarta Project Web site
+      1 Also available on the Internet
+      1 Adobe Acrobat reader required
+      1 Add-on software mentioned in book.
+      1 access page:
+      1 Access online version
+      1 Abstracts and full text;
+      1 3rd paper
+      1 2003 addendum
+      1 2002 edition
+      1 2001 addendum
